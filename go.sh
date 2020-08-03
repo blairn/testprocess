@@ -2,6 +2,5 @@ set -ex #always include this, it forces bash to exit when something actually fai
 
 echo "hey there, this should show up in the logs"
 echo "as should this"
-yo dog, lets fuck this shit up.
 echo "lets list the directory"
 ls -l
